@@ -1,6 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
-body {color: #b5b5b5; background-color:#FFFFFF; margin:50px; background-image:url(images/bg.gif); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
+body {color: #808080; background-color:#FFFFFF; margin:50px; background-image:url(images/bg.gif); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
 
     object { outline:none; }
 
+#container {
+	  margin: 0 auto;
+	  width: 700px;
+	  font-size: 10pt;
+	  text-align: left;
+	}
+	
+#img_header {
+text-align: right;
+}
