@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-body {color: #b5b5b5; background-color:#FFFFFF; margin:10px; background-image:url(images/bg.gif); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
+body {color: #b5b5b5; background-color:#FFFFFF; margin:50px; background-image:url(images/bg.gif); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
 
     object { outline:none; }
 
