@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-body {color: #808080; background-color:#FFFFFF; margin:50px; background-image:url(images/bg.gif); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
+body {color: #808080; background-color:#FFFFFF; margin:50px; background-image:url(images/bg.png); background-repeat:repeat-x; background-position: 0px 10px; text-align:center;}
 
     object { outline:none; }
 
@@ -19,11 +19,13 @@ body {color: #808080; background-color:#FFFFFF; margin:50px; background-image:ur
     a { color: #0e1c48; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
     .download { float: right; }
+    .logo { float: right; }
     .title { float: top; }
 		pre { background: #000; color: #fff; padding: 15px;}
     hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
     .footer { text-align:center; padding-top:30px; font-style: italic; }
 
+	img { border: 0; }
 	
 #img_header {
 float: right;
